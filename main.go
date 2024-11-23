@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"os"
-	"secret-friend/domain/infra"
 	"secret-friend/domain/user"
+	"secret-friend/infra"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
